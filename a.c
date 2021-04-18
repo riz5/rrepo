@@ -5,3 +5,4 @@ int main(void)
 {
   printf("github account\n");
 }
+print
